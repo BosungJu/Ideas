@@ -1,7 +1,13 @@
 # Ideas
 
+<style>
+  nav ul{
+    list-style:none;
+    padding-left:0px;
+  }
+</style>
 <nav>
-  <ul style="list-style:none;padding-left:0px;">
+  <ul>
   <li><a href="#pac_man">현실 팩맨</a></li>
   </ul>
 </nav>
