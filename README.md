@@ -1,8 +1,8 @@
 # Ideas
 
 <nav>
-  <ul style="list-style:none;">
-  <li><a href="#pac_man">1.현실 팩맨</a></li>
+  <ul style="list-style:none;padding-left:0px;">
+  <li><a href="#pac_man">현실 팩맨</a></li>
   </ul>
 </nav>
 <section>
