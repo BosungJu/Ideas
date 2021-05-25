@@ -1,6 +1,9 @@
 # Ideas
+
 <nav>
-  <a href="#pac_man">1.현실 팩맨</a>
+  <ul style="list-style:none;">
+  <li><a href="#pac_man">1.현실 팩맨</a></li>
+  </ul>
 </nav>
 <section>
   <h3 id="pac_man">1.현실 팩맨</h3>
