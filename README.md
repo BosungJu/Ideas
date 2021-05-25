@@ -2,9 +2,9 @@
 
 ## 목차
 
-[1. RealPacman](#rp)
+[1. Real Pacman](#rp)
 
-1. 현실 팩맨<a id="rp"></a>\
+1. Real Pacman<a id="rp"></a>\
   [1. 설명](#rp-1)\
   [2. 조건](#rp-2)\
   [3. 개발 인원과 사용할 기술](#rp-3)\
