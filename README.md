@@ -1,6 +1,6 @@
 # Ideas
 
-  <h3 style="padding-bottom:0">1.현실 팩맨</h3>
+  <h3 style="margin-bottom:0">1.현실 팩맨</h3>
   <br>
   <ul>
     <li>gps를 이용해 오차범위(20m)마다 점수를 얻을 수 있는 구체를 생성.(길에 따라서)</li>
